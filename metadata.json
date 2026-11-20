@@ -1,0 +1,6 @@
+{
+  "name": "Beti Ka Bhavishya — SSY Community Awareness Project",
+  "description": "An academic Community Development Project by BCA students of SGT University exploring awareness and understanding of Sukanya Samriddhi Yojana among rural communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
